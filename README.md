@@ -1,1 +1,1 @@
-"# bugsoff.io" 
+# bugsoff.io
